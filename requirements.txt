@@ -1,0 +1,4 @@
+selenium == 3.141.0
+webdriver-manager == 3.2.2
+openpyxl == 3.0.6
+keyboard == 0.13.5
